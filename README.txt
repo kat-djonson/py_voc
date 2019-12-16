@@ -1,0 +1,1 @@
+Dir voc contains home vocabulary for learning new words. There is a file - vocabulary.py. It's a base script of this project. Also there is another file - vocabulary. It's a text file with learned words.
